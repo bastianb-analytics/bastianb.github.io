@@ -20,7 +20,7 @@ but to understand the drivers behind the data and their real-world impact.
 ### Valorant Competitive Analysis
 Statistical analysis of competitive matches and player performance.
 
-🔗 https://github.com/bastianb-analytics/Valorant-Analysis-Matchs
+🔗 https://github.com/bastianb-analytics/bastianb-analytics-Valorant-Analysis-Matchs
 
 ## Career Goal
 Seeking a Junior / Entry-Level Data Analyst role.
